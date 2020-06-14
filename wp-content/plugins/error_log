@@ -1,0 +1,86 @@
+[14-Jun-2020 16:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/plugins.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/juancv/public_html/wp-content/plugins/plugins.php on line 169
+[14-Jun-2020 16:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/plugins.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/juancv/public_html/wp-content/plugins/plugins.php on line 169
+[14-Jun-2020 16:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/plugins.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/juancv/public_html/wp-content/plugins/plugins.php on line 169
+[14-Jun-2020 16:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/plugins.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/juancv/public_html/wp-content/plugins/plugins.php on line 169
+[14-Jun-2020 16:30:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/plugins.php:169
+Stack trace:
+#0 {main}
+  thrown in /home/juancv/public_html/wp-content/plugins/plugins.php on line 169
+[14-Jun-2020 16:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#5 /home/juancv/public_html/w in /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#5 /home/juancv/public_html/w in /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#5 /home/juancv/public_html/w in /home/juancv/public_html/wp-content/plugins/s3ven.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[14-Jun-2020 16:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/juancv/publ in /home/juancv/public_html/wp-content/plugins/c99shell.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
